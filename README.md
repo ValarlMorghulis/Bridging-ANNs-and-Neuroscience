@@ -1,1 +1,3 @@
 # Bridging-ANNs-and-Neuroscience
+
+Artificial Neural Networks (ANNs) have become indispensable in machine learning and share a strong connection with neuroscience \cite{yang2020artificial}. This study explores the relationship between ANNs and neuroscience from two perspectives. First, we demonstrate the efficiency of Recurrent Neural Networks (RNNs) by applying them to various neuroscience tasks. Second, we leverage insights from neuroscience, particularly methods used to analyze biological neurons, to study the functions of individual neurons in Convolutional Neural Networks (CNNs). This approach proves to be valuable for enhancing our understanding of neural networks.
